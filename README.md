@@ -2,6 +2,8 @@
 
 Security operations standard model
 
+![Image](secops_standard_model_overview.png)
+
 
 # licensing
 
