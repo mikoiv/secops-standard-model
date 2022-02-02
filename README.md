@@ -1,11 +1,12 @@
-# secops-standard-model
+# Security operations standard model
 
-Security operations standard model
+The model describes capabilities that build a complete SecOps service for an organization. 
 
-![Image](secops_standard_model_overview.png)
+![Image](secops_standard_model_capabilities.png)
 
+The capabilities are aligned with NIST Cybersecurity Framework functions. This is a relatively loose alignment, the main reasoning for using CSF here is to provide visual help for getting an overview of the capabilities. 
 
-# licensing
+# Licensing
 
 Attribution-NoDerivs CC BY-ND
 
