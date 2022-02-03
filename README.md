@@ -4,7 +4,23 @@ The model describes capabilities that build a complete SecOps service for an org
 
 ![Image](secops_standard_model_capabilities.png)
 
-The capabilities are aligned with NIST Cybersecurity Framework functions. This is a relatively loose alignment, the main reasoning for using CSF here is to provide visual help for getting an overview of the capabilities. 
+The capabilities are aligned with NIST Cybersecurity Framework functions. This is a relatively loose alignment, the main reasoning for using CSF here is to make the capabilities easier to group and visualize.
+
+# Identification capabilities
+
+# Protection capabilities
+
+## Security policy management
+
+Goals: create security policies that define guardrails for your entire IT environment:
+* Identity risk policies, including conditional access
+* Application allow- and denylisting
+* Platform resource type allow- and denylisting
+* Network firewall policies, UTM policies, ACLs
+
+# Detection capabilities
+
+# Response capabilities
 
 # Licensing
 
