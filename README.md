@@ -10,8 +10,16 @@ The capabilities are aligned with NIST Cybersecurity Framework functions. This i
 
 ## 1.1. Attack surface management
 
-Goals: understand your assets and create a continuously updating visibility to all high-risk systems, apps and assets
-* 
+Goals: understand your assets and create a continuously updating visibility to all high-risk systems
+
+MVP:
+* Start with assets available to the public or to partners. 
+* Document your assets: domains, IP addresses, service addresses.
+* Document your attack vectors: internet-connections, DMZs, partner site-to-site connections, VPNs.
+* Start monitoring: scan for new or changed assets, scan for open ports and services, scan for vulnerabilities.
+
+Next steps:
+* Evaluate commercial attack surface management services if you want. 
 
 # 2. Protection capabilities
 
