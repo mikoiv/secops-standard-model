@@ -14,7 +14,8 @@ To-do
 
 ## 1.1. Attack surface management
 
-Goals: understand your assets and create a continuously updating visibility to all high-risk systems
+Goal: 
+* Understand your assets and create a continuously updating visibility to all high-risk systems
 
 MVP:
 * Start with assets available to the public or to partners. 
@@ -35,13 +36,16 @@ Next steps:
 
 ## 2.1 Security policy management
 
-Goals: create security policies that define guardrails for your entire IT environment:
-* Identity risk policies, including conditional access
-* Application allow- and denylisting
-* Platform resource type allow- and denylisting
-* Network firewall policies, UTM policies, ACLs
+Goal: 
+* Create and manage security policies that define guardrails for your entire IT environment.
 
 MVP:
+* Identity risk policies, including conditional access.
+* Infrastructure platform resource allowlisting and denylisting.
+* Network firewall policies, UTM policies, ACLs.
+
+Next steps:
+* Application allowlisting and denylisting for workstations and servers.
 
 ## 2.2 Patch management
 
