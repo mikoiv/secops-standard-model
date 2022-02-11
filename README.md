@@ -34,7 +34,7 @@ Next steps:
 
 # 2. Protection capabilities
 
-## 2.1 Security policy management
+## 2.1. Security policy management
 
 Goal: 
 * Create and manage security policies that define guardrails for your entire IT environment.
