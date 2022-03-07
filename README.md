@@ -28,9 +28,23 @@ Next steps:
 
 ## 1.2. Vulnerability management
 
+Goal:
+* Identify and fix vulnerabilities in your assets. 
+
+MVP:
+* Sign-in for vulnerability bulletins relevant to your assets and systems.
+* Build some technical reporting capability for vulnerabilities, either from an assessment or scanning tool or at minimum based on patch-level reporting.
+* Ensure your vulnerability reporting cover your critical applications, infrastructure systems and end-user environment.
+* If you have a formal change management process, ensure it enables you to do quick vulnerability fixing (via emergency changes, standard changes or other method).
+
+Next steps:
+* 
+
 ## 1.3. Threat intelligence
 
 ## 1.4. Testing
+
+## 1.5. Disclosure
 
 # 2. Protection capabilities
 
