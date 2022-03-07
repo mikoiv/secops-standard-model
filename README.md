@@ -35,12 +35,23 @@ MVP:
 * Sign-in for vulnerability bulletins relevant to your assets and systems.
 * Build some technical reporting capability for vulnerabilities, either from an assessment or scanning tool or at minimum based on patch-level reporting.
 * Ensure your vulnerability reporting cover your critical applications, infrastructure systems and end-user environment.
+* Focusing on internet-visible assets is not enough, as internal systems may also be vulnerable via several vectors such as e-mail.
 * If you have a formal change management process, ensure it enables you to do quick vulnerability fixing (via emergency changes, standard changes or other method).
 
 Next steps:
-* 
+* Evaluate commercial vulnerability assessment tools.
 
 ## 1.3. Threat intelligence
+
+Goal:
+* Have the capability to recieve threat indicators and find out if you are affected.
+
+MVP:
+* Understand which of your existing security tools contain external indicators for threats, such as IPS.
+* Know how to create custom indicators in your security toolkit, in case you one day need to do this. 
+
+Next steps:
+* Evaluate if you would benefit from an automated threat intelligence platform. 
 
 ## 1.4. Testing
 
