@@ -89,13 +89,76 @@ To be or not to be? Maybe this can be removed from this model.
 
 ## 3.1. Use case development
 ## 3.1. Data collection
+
+* The Data Collection capability covers identification, collection and lifecycle management for security data.
+* Data collection practices:
+    * Define data sources
+    * Define data collection patterns
+    * Define data collection toolkit
+    * Define enrichment patterns
+    * Define data lifecycle
+
+* Common data sources:
+    * Email transport & mail protection systems 
+    * Endpoint protection, antivirus systems
+    * Collaboration systems
+    * Identity & access management systems
+    * Vulnerability scanners 
+    * Attack surface management systems
+    * Linux OS logs   
+    * Windows OS logs (Event logs, Sysmon)
+    * Web server, App server logs 
+    * Application whitelisting systems
+    * CASB 
+    * DNS
+    * DHCP
+    * Data islands / Snowflake systems 
+    * Jump boxes / Bastion hosts
+    * VPN gateways 
+    * Application Delivery systems
+    * Network connections / flows
+    * Database logs 
+    * Firewalls, IDS/IPS systems
+    * Proxy systems 
+    * Web Application Firewalls
+    * DDoS protection systems / scrubbers 
+    * DLP systems
+
 ## 3.1. Security analytics
+
+* The capability covers monitoring, analysis and threat detection based on collected security data. 
+* Traditionally the core technical component of analytics is Security Information and Event Management (SIEM) tools.
+* Security Orchestration, Automation, and Response (SOAR) platforms are linked to analytics but the core SOAR functionality is in Incident Response.
+
 ## 3.1. Threat hunting
+
 ## 3.1. Incident detection
+
+* The Incident Detection capability ensures security findings are processed in a way that enables the detection of security incidents that need response activities.
+* Incidents can be detected via
+    * Automation (Use Case development + Security Analytics combined)
+    * Manual input from security operations (Threat hunting)
+    * Manual input from IT operations (Service desk, IT ops teams etc)
+    * Manual input from external parties (Vendors, contractors etc)
 
 # 4. Response capabilities
 
 ## 4.1. Incident response
+
+* Incident Response is the capability to ingest events from Incident Detection and make sure analysis, response and recovery activities are done in a timely manner, even with large volumes or complex threats.
+
+* Keys to operational efficiency in incident response:
+    * Current trends and community knowledge advocate to avoid tiers.
+    * If you must have tiers, make sure there are no process silos and blockers when moving incidents between tiers.
+    * Ensure response team availability and resourcing. 
+    * Understand the IT and business environment, organisational culture, processes, ongoing transformation projects.
+    * Continuous communication with stakeholders, whether internal teams or external parties.
+
+* Define the following
+    * Response process
+    * Playbooks
+    * Common toolkit
+
 ## 4.2. Forensic analysis 
 
 MVP:
