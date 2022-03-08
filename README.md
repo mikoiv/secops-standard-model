@@ -8,8 +8,6 @@ The capabilities are aligned with NIST Cybersecurity Framework functions. This i
 
 # 0. Supporting functions
 
-To-do
-
 # 1. Identification capabilities
 
 ## 1.1. Attack surface management
@@ -57,6 +55,13 @@ Next steps:
 
 ## 1.5. Disclosure
 
+Goal: 
+* Be prepared to receive vulnerability disclosures.
+
+MVP:
+* Discuss internally how you would react to a disclosure contact. 
+* Look into security.txt https://securitytxt.org
+
 # 2. Protection capabilities
 
 ## 2.1. Security policy management
@@ -92,6 +97,10 @@ To be or not to be? Maybe this can be removed from this model.
 
 ## 4.1. Incident response
 ## 4.2. Forensic analysis 
+
+MVP:
+* Know who you can contact if you need forensic work.
+
 ## 4.3. Incident reporting
 
 
