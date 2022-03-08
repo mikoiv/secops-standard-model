@@ -88,6 +88,23 @@ To be or not to be? Maybe this can be removed from this model.
 # 3. Detection capabilities
 
 ## 3.1. Use case development
+
+Use Case development is the capability to identify what threats needs to be monitored and how are detection and response done. 
+
+Example Use Case lifecycle:
+1. Define threat scenario.
+2. Define alerting, detection and response process. 
+3. Write new playbook if necessary. 
+4. Test alerting and detection accuracy. 
+5. Deploy the use case.
+6. Evaluate and refine.
+
+Example Use Case onboarding maturity model:
+
+* Stage 1: Use cases with low false positive rates, low complexity, repeatable response activities.
+* Stage 2: Use cases with medium false positive rate, analysis and decision-making usually required during response activities.
+* Stage 3: Use cases with high false positive rates, baselining and customisation needed before onboarding, detailed analysis capabilities needed during response activities.
+
 ## 3.1. Data collection
 
 * The Data Collection capability covers identification, collection and lifecycle management for security data.
