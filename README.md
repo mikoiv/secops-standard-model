@@ -81,9 +81,7 @@ Next steps:
 
 ## 2.3 Threat protection
 
-## 2.4 Data classification
-
-To be or not to be? Maybe this can be removed from this model. 
+## 2.4 Data protection
 
 # 3. Detection capabilities
 
