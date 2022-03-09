@@ -4,7 +4,7 @@ The model describes capabilities that build a complete SecOps service for an org
 
 ![Image](secops_standard_model_capabilities.png)
 
-The capabilities are aligned with NIST Cybersecurity Framework functions. This is a relatively loose alignment, the main reasoning for using CSF here is to make the everything easier to group and visualize.
+The capabilities are aligned with NIST Cybersecurity Framework functions. This is a relatively loose alignment, the main reasoning for using CSF here is to make everything easier to group and visualize.
 
 # 0. Supporting functions
 
