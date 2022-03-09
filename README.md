@@ -8,6 +8,13 @@ The capabilities are aligned with NIST Cybersecurity Framework functions. This i
 
 # 0. Supporting functions
 
+Capabilities that are not part of Security Operations, but support it:
+* IT Governance, IT Architecture, IT Service Management
+* Identity and Access Management (IAM)
+* Risk Management 
+* Business Continuity
+* Asset Management
+
 # 1. Identification capabilities
 
 ## 1.1. Attack surface management
