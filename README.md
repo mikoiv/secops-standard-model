@@ -106,11 +106,9 @@ Example Use Case lifecycle:
 5. Deploy the use case.
 6. Evaluate and refine.
 
-Example Use Case onboarding maturity model:
+Resulting Use Case database likely has multipel maturity stages (per use case false positive rates, investigation complexity, response action repeatability).
 
-* Stage 1: Use cases with low false positive rates, low complexity, repeatable response activities.
-* Stage 2: Use cases with medium false positive rate, analysis and decision-making usually required during response activities.
-* Stage 3: Use cases with high false positive rates, baselining and customisation needed before onboarding, detailed analysis capabilities needed during response activities.
+Heatmapping the resulting database to Mitre ATT&CK may be a good idea to help with quality and coverage control.
 
 ## 3.1. Data collection
 
