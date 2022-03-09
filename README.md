@@ -84,11 +84,13 @@ MVP:
 Next steps:
 * Application allowlisting and denylisting for workstations and servers.
 
-## 2.2 Patch management
+## 2.2. Access policy management
 
-## 2.3 Threat protection
+## 2.3 Patch management
 
-## 2.4 Data protection
+## 2.4 Threat protection
+
+## 2.5 Data protection
 
 # 3. Detection capabilities
 
